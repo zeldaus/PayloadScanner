@@ -1,3 +1,6 @@
+#! Created By Zeldaus
+#! 28/10/2020
+#! We don't write code code write us  :D
 #! /usr/bin/python
 import requests,sys,urllib2
 import os
